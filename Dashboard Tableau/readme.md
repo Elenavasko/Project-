@@ -1,8 +1,8 @@
 ## Исследование лояльности пользователей телекоммуникационной компании
 
-### Дашборд:
-[Исследование лояльности пользователей](https://public.tableau.com/views/NPS_16759507026510/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Дашборд:  [Исследование лояльности пользователей](https://public.tableau.com/views/NPS_16759507026510/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![nps](https://github.com/Elenavasko/Project-/assets/130385210/a23008cd-7a34-4c8e-a49d-b64121181b8c)
 ### Данные:
 - user_id	Идентификатор клиента
 - lt_day	Количество дней «жизни» клиента
